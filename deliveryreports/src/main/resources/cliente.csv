@@ -1,0 +1,1001 @@
+    nombre,forma_de_pago,tiempo_activo,tipo
+almacenes la 0,30 dias,4,hipermercado
+almacenes la 1,contado,0,tienda
+almacenes la 2,30 dias,1,hipermercado
+almacenes la 3,contado,2,hipermercado
+almacenes la 4,contado,14,supermercado
+almacenes la 5,30 dias,7,hipermercado
+almacenes la 6,10 dias,9,hipermercado
+almacenes la 7,contado,5,tienda
+almacenes la 8,10 dias,13,grandes superficies
+almacenes la 9,10 dias,7,hipermercado
+almacenes la 10,60 dias,4,supermercado
+almacenes la 11,30 dias,8,hipermercado
+almacenes la 12,10 dias,14,tienda
+almacenes la 13,contado,11,supermercado
+almacenes la 14,contado,3,tienda
+almacenes la 15,10 dias,16,tienda
+almacenes la 16,60 dias,3,tienda
+almacenes la 17,45 dias,14,tienda
+almacenes la 18,contado,16,grandes superficies
+almacenes la 19,contado,6,tienda
+almacenes la 20,contado,14,supermercado
+almacenes la 21,45 dias,14,hipermercado
+almacenes la 22,10 dias,13,tienda
+almacenes la 23,30 dias,3,grandes superficies
+almacenes la 24,45 dias,5,grandes superficies
+almacenes la 25,10 dias,14,hipermercado
+almacenes la 26,10 dias,16,grandes superficies
+almacenes la 27,30 dias,8,grandes superficies
+almacenes la 28,45 dias,5,tienda
+almacenes la 29,contado,7,supermercado
+almacenes la 30,45 dias,7,tienda
+almacenes la 31,30 dias,17,tienda
+almacenes la 32,60 dias,15,tienda
+almacenes la 33,45 dias,10,hipermercado
+almacenes la 34,contado,14,hipermercado
+almacenes la 35,30 dias,15,tienda
+almacenes la 36,45 dias,2,hipermercado
+almacenes la 37,30 dias,13,hipermercado
+almacenes la 38,10 dias,6,tienda
+almacenes la 39,contado,15,tienda
+almacenes la 40,10 dias,7,hipermercado
+almacenes la 41,45 dias,2,supermercado
+almacenes la 42,10 dias,15,supermercado
+almacenes la 43,10 dias,7,grandes superficies
+almacenes la 44,45 dias,4,grandes superficies
+almacenes la 45,30 dias,1,grandes superficies
+almacenes la 46,30 dias,7,grandes superficies
+almacenes la 47,contado,17,hipermercado
+almacenes la 48,60 dias,12,hipermercado
+almacenes la 49,30 dias,14,grandes superficies
+almacenes la 50,45 dias,14,grandes superficies
+almacenes la 51,30 dias,0,supermercado
+almacenes la 52,10 dias,8,grandes superficies
+almacenes la 53,45 dias,7,tienda
+almacenes la 54,60 dias,17,supermercado
+almacenes la 55,45 dias,7,hipermercado
+almacenes la 56,contado,14,supermercado
+almacenes la 57,contado,16,tienda
+almacenes la 58,45 dias,10,hipermercado
+almacenes la 59,60 dias,9,supermercado
+almacenes la 60,10 dias,1,grandes superficies
+almacenes la 61,30 dias,14,tienda
+almacenes la 62,contado,5,supermercado
+almacenes la 63,10 dias,3,grandes superficies
+almacenes la 64,30 dias,11,tienda
+almacenes la 65,45 dias,16,hipermercado
+almacenes la 66,45 dias,8,grandes superficies
+almacenes la 67,contado,3,grandes superficies
+almacenes la 68,45 dias,3,supermercado
+almacenes la 69,60 dias,10,supermercado
+almacenes la 70,45 dias,8,grandes superficies
+almacenes la 71,30 dias,11,tienda
+almacenes la 72,10 dias,5,supermercado
+almacenes la 73,contado,5,grandes superficies
+almacenes la 74,60 dias,9,supermercado
+almacenes la 75,60 dias,8,grandes superficies
+almacenes la 76,45 dias,12,tienda
+almacenes la 77,contado,2,tienda
+almacenes la 78,30 dias,17,hipermercado
+almacenes la 79,contado,3,tienda
+almacenes la 80,contado,2,hipermercado
+almacenes la 81,30 dias,0,supermercado
+almacenes la 82,30 dias,11,hipermercado
+almacenes la 83,45 dias,17,hipermercado
+almacenes la 84,10 dias,8,tienda
+almacenes la 85,contado,6,supermercado
+almacenes la 86,contado,15,tienda
+almacenes la 87,30 dias,4,grandes superficies
+almacenes la 88,60 dias,4,hipermercado
+almacenes la 89,contado,3,tienda
+almacenes la 90,10 dias,1,tienda
+almacenes la 91,45 dias,13,hipermercado
+almacenes la 92,10 dias,9,tienda
+almacenes la 93,contado,11,hipermercado
+almacenes la 94,45 dias,16,grandes superficies
+almacenes la 95,contado,8,supermercado
+almacenes la 96,45 dias,0,tienda
+almacenes la 97,45 dias,14,supermercado
+almacenes la 98,30 dias,8,tienda
+almacenes la 99,10 dias,12,grandes superficies
+almacenes la 100,contado,15,grandes superficies
+almacenes la 101,30 dias,5,grandes superficies
+almacenes la 102,45 dias,6,hipermercado
+almacenes la 103,30 dias,3,grandes superficies
+almacenes la 104,contado,13,grandes superficies
+almacenes la 105,45 dias,9,supermercado
+almacenes la 106,10 dias,5,tienda
+almacenes la 107,contado,7,grandes superficies
+almacenes la 108,45 dias,9,tienda
+almacenes la 109,contado,16,supermercado
+almacenes la 110,45 dias,4,grandes superficies
+almacenes la 111,10 dias,4,hipermercado
+almacenes la 112,contado,0,supermercado
+almacenes la 113,30 dias,8,grandes superficies
+almacenes la 114,contado,13,tienda
+almacenes la 115,contado,5,tienda
+almacenes la 116,60 dias,17,tienda
+almacenes la 117,45 dias,17,tienda
+almacenes la 118,30 dias,5,grandes superficies
+almacenes la 119,10 dias,2,grandes superficies
+almacenes la 120,30 dias,9,supermercado
+almacenes la 121,60 dias,1,supermercado
+almacenes la 122,45 dias,2,grandes superficies
+almacenes la 123,10 dias,0,tienda
+almacenes la 124,contado,17,tienda
+almacenes la 125,30 dias,3,supermercado
+almacenes la 126,contado,11,supermercado
+almacenes la 127,30 dias,8,tienda
+almacenes la 128,contado,17,grandes superficies
+almacenes la 129,contado,11,hipermercado
+almacenes la 130,45 dias,12,tienda
+almacenes la 131,60 dias,0,supermercado
+almacenes la 132,60 dias,1,tienda
+almacenes la 133,30 dias,13,hipermercado
+almacenes la 134,45 dias,5,tienda
+almacenes la 135,30 dias,11,hipermercado
+almacenes la 136,30 dias,6,hipermercado
+almacenes la 137,contado,7,hipermercado
+almacenes la 138,contado,8,tienda
+almacenes la 139,10 dias,15,tienda
+almacenes la 140,30 dias,6,tienda
+almacenes la 141,60 dias,13,grandes superficies
+almacenes la 142,45 dias,11,tienda
+almacenes la 143,45 dias,11,grandes superficies
+almacenes la 144,60 dias,0,grandes superficies
+almacenes la 145,contado,10,hipermercado
+almacenes la 146,60 dias,0,hipermercado
+almacenes la 147,45 dias,4,tienda
+almacenes la 148,30 dias,12,grandes superficies
+almacenes la 149,60 dias,16,hipermercado
+almacenes la 150,10 dias,12,hipermercado
+almacenes la 151,30 dias,7,supermercado
+almacenes la 152,10 dias,8,tienda
+almacenes la 153,contado,15,supermercado
+almacenes la 154,45 dias,0,grandes superficies
+almacenes la 155,30 dias,15,hipermercado
+almacenes la 156,60 dias,13,tienda
+almacenes la 157,30 dias,13,hipermercado
+almacenes la 158,30 dias,8,supermercado
+almacenes la 159,30 dias,2,supermercado
+almacenes la 160,30 dias,2,tienda
+almacenes la 161,45 dias,10,supermercado
+almacenes la 162,60 dias,10,tienda
+almacenes la 163,60 dias,2,grandes superficies
+almacenes la 164,contado,11,tienda
+almacenes la 165,60 dias,7,hipermercado
+almacenes la 166,contado,3,tienda
+almacenes la 167,45 dias,4,supermercado
+almacenes la 168,45 dias,6,grandes superficies
+almacenes la 169,contado,0,supermercado
+almacenes la 170,contado,16,supermercado
+almacenes la 171,60 dias,4,hipermercado
+almacenes la 172,30 dias,6,hipermercado
+almacenes la 173,45 dias,16,grandes superficies
+almacenes la 174,10 dias,1,tienda
+almacenes la 175,45 dias,14,hipermercado
+almacenes la 176,60 dias,5,grandes superficies
+almacenes la 177,45 dias,13,supermercado
+almacenes la 178,30 dias,3,grandes superficies
+almacenes la 179,30 dias,15,supermercado
+almacenes la 180,contado,3,grandes superficies
+almacenes la 181,60 dias,1,hipermercado
+almacenes la 182,contado,4,tienda
+almacenes la 183,45 dias,0,tienda
+almacenes la 184,30 dias,3,grandes superficies
+almacenes la 185,30 dias,4,supermercado
+almacenes la 186,45 dias,9,supermercado
+almacenes la 187,10 dias,4,supermercado
+almacenes la 188,60 dias,12,grandes superficies
+almacenes la 189,60 dias,4,supermercado
+almacenes la 190,10 dias,2,grandes superficies
+almacenes la 191,45 dias,4,hipermercado
+almacenes la 192,10 dias,1,supermercado
+almacenes la 193,10 dias,17,hipermercado
+almacenes la 194,60 dias,7,grandes superficies
+almacenes la 195,45 dias,15,grandes superficies
+almacenes la 196,30 dias,13,tienda
+almacenes la 197,10 dias,15,supermercado
+almacenes la 198,45 dias,10,supermercado
+almacenes la 199,contado,16,hipermercado
+almacenes la 200,45 dias,11,grandes superficies
+almacenes la 201,60 dias,14,supermercado
+almacenes la 202,30 dias,3,tienda
+almacenes la 203,45 dias,4,hipermercado
+almacenes la 204,30 dias,13,supermercado
+almacenes la 205,45 dias,7,supermercado
+almacenes la 206,30 dias,15,grandes superficies
+almacenes la 207,contado,9,supermercado
+almacenes la 208,contado,15,grandes superficies
+almacenes la 209,10 dias,0,grandes superficies
+almacenes la 210,60 dias,6,supermercado
+almacenes la 211,30 dias,14,grandes superficies
+almacenes la 212,30 dias,3,supermercado
+almacenes la 213,30 dias,15,grandes superficies
+almacenes la 214,10 dias,14,tienda
+almacenes la 215,contado,15,grandes superficies
+almacenes la 216,contado,15,grandes superficies
+almacenes la 217,contado,4,grandes superficies
+almacenes la 218,60 dias,4,grandes superficies
+almacenes la 219,10 dias,6,grandes superficies
+almacenes la 220,30 dias,1,grandes superficies
+almacenes la 221,10 dias,15,hipermercado
+almacenes la 222,60 dias,16,tienda
+almacenes la 223,contado,14,hipermercado
+almacenes la 224,60 dias,6,supermercado
+almacenes la 225,45 dias,11,supermercado
+almacenes la 226,30 dias,10,hipermercado
+almacenes la 227,10 dias,5,tienda
+almacenes la 228,10 dias,16,grandes superficies
+almacenes la 229,30 dias,14,supermercado
+almacenes la 230,60 dias,9,grandes superficies
+almacenes la 231,30 dias,12,supermercado
+almacenes la 232,60 dias,14,supermercado
+almacenes la 233,45 dias,1,grandes superficies
+almacenes la 234,30 dias,6,tienda
+almacenes la 235,45 dias,7,grandes superficies
+almacenes la 236,contado,8,hipermercado
+almacenes la 237,60 dias,1,supermercado
+almacenes la 238,10 dias,6,supermercado
+almacenes la 239,contado,0,tienda
+almacenes la 240,30 dias,14,tienda
+almacenes la 241,contado,1,grandes superficies
+almacenes la 242,contado,0,grandes superficies
+almacenes la 243,contado,8,grandes superficies
+almacenes la 244,10 dias,12,tienda
+almacenes la 245,30 dias,12,tienda
+almacenes la 246,30 dias,1,hipermercado
+almacenes la 247,10 dias,16,grandes superficies
+almacenes la 248,30 dias,6,tienda
+almacenes la 249,30 dias,8,hipermercado
+almacenes la 250,10 dias,11,tienda
+almacenes la 251,10 dias,3,grandes superficies
+almacenes la 252,10 dias,3,grandes superficies
+almacenes la 253,10 dias,17,supermercado
+almacenes la 254,45 dias,12,hipermercado
+almacenes la 255,10 dias,8,hipermercado
+almacenes la 256,45 dias,17,grandes superficies
+almacenes la 257,10 dias,1,hipermercado
+almacenes la 258,10 dias,7,supermercado
+almacenes la 259,60 dias,8,supermercado
+almacenes la 260,10 dias,3,grandes superficies
+almacenes la 261,30 dias,11,hipermercado
+almacenes la 262,30 dias,9,tienda
+almacenes la 263,10 dias,15,hipermercado
+almacenes la 264,10 dias,11,grandes superficies
+almacenes la 265,30 dias,12,tienda
+almacenes la 266,60 dias,7,supermercado
+almacenes la 267,10 dias,16,supermercado
+almacenes la 268,45 dias,3,supermercado
+almacenes la 269,30 dias,8,grandes superficies
+almacenes la 270,45 dias,13,grandes superficies
+almacenes la 271,10 dias,1,supermercado
+almacenes la 272,contado,6,tienda
+almacenes la 273,contado,17,supermercado
+almacenes la 274,contado,7,grandes superficies
+almacenes la 275,10 dias,2,tienda
+almacenes la 276,30 dias,3,tienda
+almacenes la 277,60 dias,11,grandes superficies
+almacenes la 278,contado,17,tienda
+almacenes la 279,60 dias,17,hipermercado
+almacenes la 280,30 dias,15,supermercado
+almacenes la 281,contado,1,grandes superficies
+almacenes la 282,30 dias,14,hipermercado
+almacenes la 283,30 dias,9,grandes superficies
+almacenes la 284,contado,17,supermercado
+almacenes la 285,30 dias,8,supermercado
+almacenes la 286,10 dias,0,supermercado
+almacenes la 287,10 dias,8,tienda
+almacenes la 288,10 dias,2,tienda
+almacenes la 289,45 dias,2,supermercado
+almacenes la 290,30 dias,12,grandes superficies
+almacenes la 291,45 dias,13,hipermercado
+almacenes la 292,30 dias,11,tienda
+almacenes la 293,30 dias,10,supermercado
+almacenes la 294,45 dias,2,hipermercado
+almacenes la 295,contado,17,hipermercado
+almacenes la 296,contado,3,hipermercado
+almacenes la 297,45 dias,2,supermercado
+almacenes la 298,30 dias,10,tienda
+almacenes la 299,30 dias,3,tienda
+almacenes la 300,10 dias,9,tienda
+almacenes la 301,contado,2,tienda
+almacenes la 302,contado,14,supermercado
+almacenes la 303,30 dias,13,tienda
+almacenes la 304,30 dias,7,hipermercado
+almacenes la 305,10 dias,5,hipermercado
+almacenes la 306,contado,17,grandes superficies
+almacenes la 307,contado,17,grandes superficies
+almacenes la 308,45 dias,12,tienda
+almacenes la 309,60 dias,6,hipermercado
+almacenes la 310,45 dias,4,supermercado
+almacenes la 311,10 dias,2,tienda
+almacenes la 312,10 dias,10,hipermercado
+almacenes la 313,10 dias,3,hipermercado
+almacenes la 314,30 dias,2,hipermercado
+almacenes la 315,60 dias,7,grandes superficies
+almacenes la 316,30 dias,2,supermercado
+almacenes la 317,contado,8,tienda
+almacenes la 318,45 dias,15,hipermercado
+almacenes la 319,45 dias,13,grandes superficies
+almacenes la 320,45 dias,13,grandes superficies
+almacenes la 321,10 dias,3,supermercado
+almacenes la 322,10 dias,2,grandes superficies
+almacenes la 323,45 dias,6,hipermercado
+almacenes la 324,60 dias,7,hipermercado
+almacenes la 325,45 dias,11,tienda
+almacenes la 326,30 dias,3,grandes superficies
+almacenes la 327,60 dias,12,hipermercado
+almacenes la 328,45 dias,5,hipermercado
+almacenes la 329,30 dias,0,grandes superficies
+almacenes la 330,10 dias,6,tienda
+almacenes la 331,30 dias,13,tienda
+almacenes la 332,45 dias,6,grandes superficies
+almacenes la 333,30 dias,6,hipermercado
+almacenes la 334,60 dias,13,hipermercado
+almacenes la 335,45 dias,6,supermercado
+almacenes la 336,30 dias,13,grandes superficies
+almacenes la 337,60 dias,2,tienda
+almacenes la 338,45 dias,15,supermercado
+almacenes la 339,60 dias,12,hipermercado
+almacenes la 340,45 dias,2,hipermercado
+almacenes la 341,10 dias,7,grandes superficies
+almacenes la 342,45 dias,7,hipermercado
+almacenes la 343,10 dias,7,hipermercado
+almacenes la 344,10 dias,13,supermercado
+almacenes la 345,10 dias,5,hipermercado
+almacenes la 346,contado,3,supermercado
+almacenes la 347,45 dias,9,hipermercado
+almacenes la 348,45 dias,9,supermercado
+almacenes la 349,10 dias,13,hipermercado
+almacenes la 350,30 dias,16,grandes superficies
+almacenes la 351,10 dias,15,supermercado
+almacenes la 352,45 dias,14,grandes superficies
+almacenes la 353,45 dias,10,supermercado
+almacenes la 354,30 dias,11,supermercado
+almacenes la 355,45 dias,6,supermercado
+almacenes la 356,10 dias,5,hipermercado
+almacenes la 357,10 dias,1,hipermercado
+almacenes la 358,45 dias,11,hipermercado
+almacenes la 359,30 dias,3,tienda
+almacenes la 360,30 dias,3,hipermercado
+almacenes la 361,60 dias,5,supermercado
+almacenes la 362,30 dias,16,tienda
+almacenes la 363,10 dias,1,grandes superficies
+almacenes la 364,contado,5,tienda
+almacenes la 365,45 dias,1,tienda
+almacenes la 366,10 dias,16,hipermercado
+almacenes la 367,45 dias,15,grandes superficies
+almacenes la 368,contado,12,supermercado
+almacenes la 369,contado,9,hipermercado
+almacenes la 370,contado,14,supermercado
+almacenes la 371,10 dias,1,hipermercado
+almacenes la 372,10 dias,11,tienda
+almacenes la 373,30 dias,1,hipermercado
+almacenes la 374,45 dias,3,supermercado
+almacenes la 375,contado,2,tienda
+almacenes la 376,30 dias,16,grandes superficies
+almacenes la 377,10 dias,12,grandes superficies
+almacenes la 378,contado,12,supermercado
+almacenes la 379,60 dias,6,hipermercado
+almacenes la 380,30 dias,8,supermercado
+almacenes la 381,45 dias,4,tienda
+almacenes la 382,60 dias,17,supermercado
+almacenes la 383,contado,8,grandes superficies
+almacenes la 384,60 dias,15,grandes superficies
+almacenes la 385,45 dias,17,hipermercado
+almacenes la 386,60 dias,11,tienda
+almacenes la 387,45 dias,8,hipermercado
+almacenes la 388,contado,16,hipermercado
+almacenes la 389,10 dias,9,hipermercado
+almacenes la 390,45 dias,2,grandes superficies
+almacenes la 391,10 dias,14,grandes superficies
+almacenes la 392,45 dias,9,tienda
+almacenes la 393,10 dias,1,hipermercado
+almacenes la 394,contado,8,supermercado
+almacenes la 395,30 dias,10,tienda
+almacenes la 396,45 dias,5,grandes superficies
+almacenes la 397,30 dias,2,tienda
+almacenes la 398,contado,10,tienda
+almacenes la 399,45 dias,3,hipermercado
+almacenes la 400,30 dias,14,grandes superficies
+almacenes la 401,contado,6,tienda
+almacenes la 402,contado,10,grandes superficies
+almacenes la 403,contado,7,tienda
+almacenes la 404,60 dias,1,hipermercado
+almacenes la 405,30 dias,12,hipermercado
+almacenes la 406,10 dias,2,supermercado
+almacenes la 407,30 dias,4,hipermercado
+almacenes la 408,45 dias,6,hipermercado
+almacenes la 409,contado,4,tienda
+almacenes la 410,45 dias,14,tienda
+almacenes la 411,45 dias,2,supermercado
+almacenes la 412,10 dias,13,grandes superficies
+almacenes la 413,10 dias,14,tienda
+almacenes la 414,60 dias,4,tienda
+almacenes la 415,60 dias,16,tienda
+almacenes la 416,contado,4,supermercado
+almacenes la 417,10 dias,9,supermercado
+almacenes la 418,10 dias,1,hipermercado
+almacenes la 419,10 dias,2,supermercado
+almacenes la 420,contado,10,supermercado
+almacenes la 421,10 dias,0,grandes superficies
+almacenes la 422,10 dias,10,hipermercado
+almacenes la 423,60 dias,7,hipermercado
+almacenes la 424,10 dias,11,tienda
+almacenes la 425,45 dias,12,supermercado
+almacenes la 426,30 dias,14,supermercado
+almacenes la 427,30 dias,14,tienda
+almacenes la 428,60 dias,5,hipermercado
+almacenes la 429,10 dias,14,grandes superficies
+almacenes la 430,45 dias,2,supermercado
+almacenes la 431,contado,3,tienda
+almacenes la 432,45 dias,5,hipermercado
+almacenes la 433,60 dias,3,grandes superficies
+almacenes la 434,60 dias,7,grandes superficies
+almacenes la 435,45 dias,1,hipermercado
+almacenes la 436,10 dias,3,supermercado
+almacenes la 437,60 dias,14,tienda
+almacenes la 438,45 dias,15,tienda
+almacenes la 439,contado,9,grandes superficies
+almacenes la 440,10 dias,0,hipermercado
+almacenes la 441,60 dias,16,supermercado
+almacenes la 442,45 dias,4,supermercado
+almacenes la 443,60 dias,6,tienda
+almacenes la 444,contado,11,supermercado
+almacenes la 445,contado,8,hipermercado
+almacenes la 446,contado,0,grandes superficies
+almacenes la 447,10 dias,1,tienda
+almacenes la 448,60 dias,5,tienda
+almacenes la 449,10 dias,3,tienda
+almacenes la 450,60 dias,16,supermercado
+almacenes la 451,contado,7,supermercado
+almacenes la 452,contado,12,grandes superficies
+almacenes la 453,60 dias,5,hipermercado
+almacenes la 454,contado,8,tienda
+almacenes la 455,45 dias,0,supermercado
+almacenes la 456,45 dias,11,grandes superficies
+almacenes la 457,45 dias,3,hipermercado
+almacenes la 458,60 dias,15,hipermercado
+almacenes la 459,10 dias,6,tienda
+almacenes la 460,30 dias,16,tienda
+almacenes la 461,30 dias,0,supermercado
+almacenes la 462,60 dias,11,supermercado
+almacenes la 463,60 dias,10,tienda
+almacenes la 464,10 dias,3,supermercado
+almacenes la 465,contado,7,hipermercado
+almacenes la 466,10 dias,4,supermercado
+almacenes la 467,60 dias,8,supermercado
+almacenes la 468,60 dias,0,supermercado
+almacenes la 469,10 dias,15,tienda
+almacenes la 470,60 dias,3,supermercado
+almacenes la 471,60 dias,13,supermercado
+almacenes la 472,60 dias,16,tienda
+almacenes la 473,contado,9,tienda
+almacenes la 474,10 dias,17,tienda
+almacenes la 475,10 dias,17,grandes superficies
+almacenes la 476,60 dias,14,supermercado
+almacenes la 477,60 dias,10,grandes superficies
+almacenes la 478,contado,6,supermercado
+almacenes la 479,30 dias,17,tienda
+almacenes la 480,30 dias,10,tienda
+almacenes la 481,60 dias,16,hipermercado
+almacenes la 482,60 dias,0,grandes superficies
+almacenes la 483,contado,0,hipermercado
+almacenes la 484,30 dias,1,tienda
+almacenes la 485,30 dias,13,grandes superficies
+almacenes la 486,45 dias,5,grandes superficies
+almacenes la 487,contado,15,grandes superficies
+almacenes la 488,contado,17,supermercado
+almacenes la 489,30 dias,0,grandes superficies
+almacenes la 490,10 dias,11,tienda
+almacenes la 491,10 dias,13,hipermercado
+almacenes la 492,60 dias,11,supermercado
+almacenes la 493,contado,13,hipermercado
+almacenes la 494,10 dias,2,hipermercado
+almacenes la 495,60 dias,12,grandes superficies
+almacenes la 496,60 dias,12,grandes superficies
+almacenes la 497,contado,0,hipermercado
+almacenes la 498,contado,3,supermercado
+almacenes la 499,10 dias,9,supermercado
+almacenes la 500,10 dias,1,tienda
+almacenes la 501,10 dias,16,tienda
+almacenes la 502,45 dias,0,grandes superficies
+almacenes la 503,45 dias,15,tienda
+almacenes la 504,10 dias,14,hipermercado
+almacenes la 505,45 dias,5,grandes superficies
+almacenes la 506,30 dias,16,supermercado
+almacenes la 507,10 dias,15,grandes superficies
+almacenes la 508,45 dias,13,tienda
+almacenes la 509,30 dias,16,hipermercado
+almacenes la 510,60 dias,2,grandes superficies
+almacenes la 511,45 dias,3,supermercado
+almacenes la 512,45 dias,1,grandes superficies
+almacenes la 513,45 dias,1,grandes superficies
+almacenes la 514,10 dias,3,hipermercado
+almacenes la 515,10 dias,8,supermercado
+almacenes la 516,60 dias,15,grandes superficies
+almacenes la 517,10 dias,15,tienda
+almacenes la 518,contado,3,grandes superficies
+almacenes la 519,60 dias,10,hipermercado
+almacenes la 520,30 dias,5,supermercado
+almacenes la 521,30 dias,3,tienda
+almacenes la 522,45 dias,1,supermercado
+almacenes la 523,60 dias,4,tienda
+almacenes la 524,60 dias,3,tienda
+almacenes la 525,30 dias,5,supermercado
+almacenes la 526,60 dias,17,supermercado
+almacenes la 527,30 dias,16,supermercado
+almacenes la 528,45 dias,17,supermercado
+almacenes la 529,30 dias,6,tienda
+almacenes la 530,30 dias,2,tienda
+almacenes la 531,45 dias,10,grandes superficies
+almacenes la 532,contado,11,supermercado
+almacenes la 533,10 dias,1,grandes superficies
+almacenes la 534,30 dias,8,supermercado
+almacenes la 535,30 dias,5,hipermercado
+almacenes la 536,10 dias,17,hipermercado
+almacenes la 537,60 dias,3,grandes superficies
+almacenes la 538,45 dias,11,grandes superficies
+almacenes la 539,30 dias,7,supermercado
+almacenes la 540,30 dias,14,grandes superficies
+almacenes la 541,45 dias,0,grandes superficies
+almacenes la 542,contado,13,supermercado
+almacenes la 543,10 dias,3,supermercado
+almacenes la 544,45 dias,8,hipermercado
+almacenes la 545,60 dias,4,supermercado
+almacenes la 546,10 dias,14,grandes superficies
+almacenes la 547,contado,2,hipermercado
+almacenes la 548,45 dias,3,hipermercado
+almacenes la 549,45 dias,15,supermercado
+almacenes la 550,10 dias,13,hipermercado
+almacenes la 551,contado,16,grandes superficies
+almacenes la 552,contado,15,tienda
+almacenes la 553,10 dias,0,hipermercado
+almacenes la 554,45 dias,0,supermercado
+almacenes la 555,45 dias,8,tienda
+almacenes la 556,10 dias,11,supermercado
+almacenes la 557,60 dias,10,supermercado
+almacenes la 558,30 dias,4,grandes superficies
+almacenes la 559,60 dias,10,grandes superficies
+almacenes la 560,60 dias,2,tienda
+almacenes la 561,45 dias,11,hipermercado
+almacenes la 562,30 dias,16,tienda
+almacenes la 563,10 dias,6,hipermercado
+almacenes la 564,45 dias,7,tienda
+almacenes la 565,10 dias,16,hipermercado
+almacenes la 566,contado,10,grandes superficies
+almacenes la 567,45 dias,8,grandes superficies
+almacenes la 568,60 dias,16,hipermercado
+almacenes la 569,60 dias,16,tienda
+almacenes la 570,45 dias,8,grandes superficies
+almacenes la 571,30 dias,10,tienda
+almacenes la 572,contado,12,grandes superficies
+almacenes la 573,45 dias,1,supermercado
+almacenes la 574,10 dias,10,supermercado
+almacenes la 575,45 dias,11,tienda
+almacenes la 576,contado,6,hipermercado
+almacenes la 577,60 dias,4,hipermercado
+almacenes la 578,45 dias,13,supermercado
+almacenes la 579,60 dias,11,tienda
+almacenes la 580,contado,11,tienda
+almacenes la 581,60 dias,13,grandes superficies
+almacenes la 582,contado,4,tienda
+almacenes la 583,contado,5,tienda
+almacenes la 584,10 dias,9,hipermercado
+almacenes la 585,30 dias,4,hipermercado
+almacenes la 586,30 dias,11,supermercado
+almacenes la 587,30 dias,0,grandes superficies
+almacenes la 588,30 dias,14,tienda
+almacenes la 589,60 dias,15,hipermercado
+almacenes la 590,30 dias,15,grandes superficies
+almacenes la 591,30 dias,16,supermercado
+almacenes la 592,30 dias,4,grandes superficies
+almacenes la 593,45 dias,14,hipermercado
+almacenes la 594,contado,2,tienda
+almacenes la 595,45 dias,16,supermercado
+almacenes la 596,contado,12,tienda
+almacenes la 597,60 dias,10,supermercado
+almacenes la 598,60 dias,7,tienda
+almacenes la 599,45 dias,0,grandes superficies
+almacenes la 600,30 dias,9,tienda
+almacenes la 601,60 dias,13,supermercado
+almacenes la 602,60 dias,13,hipermercado
+almacenes la 603,45 dias,3,supermercado
+almacenes la 604,contado,1,tienda
+almacenes la 605,45 dias,11,tienda
+almacenes la 606,contado,3,grandes superficies
+almacenes la 607,45 dias,3,tienda
+almacenes la 608,30 dias,7,grandes superficies
+almacenes la 609,contado,4,grandes superficies
+almacenes la 610,60 dias,3,supermercado
+almacenes la 611,45 dias,6,grandes superficies
+almacenes la 612,45 dias,15,supermercado
+almacenes la 613,contado,14,grandes superficies
+almacenes la 614,45 dias,6,hipermercado
+almacenes la 615,30 dias,7,hipermercado
+almacenes la 616,45 dias,16,hipermercado
+almacenes la 617,60 dias,2,tienda
+almacenes la 618,10 dias,13,hipermercado
+almacenes la 619,60 dias,15,tienda
+almacenes la 620,30 dias,13,tienda
+almacenes la 621,10 dias,2,tienda
+almacenes la 622,30 dias,9,supermercado
+almacenes la 623,10 dias,0,hipermercado
+almacenes la 624,contado,5,tienda
+almacenes la 625,60 dias,14,supermercado
+almacenes la 626,30 dias,16,tienda
+almacenes la 627,45 dias,7,hipermercado
+almacenes la 628,30 dias,12,supermercado
+almacenes la 629,10 dias,9,tienda
+almacenes la 630,30 dias,17,tienda
+almacenes la 631,30 dias,9,hipermercado
+almacenes la 632,30 dias,6,hipermercado
+almacenes la 633,30 dias,15,hipermercado
+almacenes la 634,45 dias,10,tienda
+almacenes la 635,10 dias,9,grandes superficies
+almacenes la 636,60 dias,2,grandes superficies
+almacenes la 637,45 dias,2,hipermercado
+almacenes la 638,10 dias,13,tienda
+almacenes la 639,30 dias,5,tienda
+almacenes la 640,45 dias,2,grandes superficies
+almacenes la 641,30 dias,8,tienda
+almacenes la 642,contado,8,hipermercado
+almacenes la 643,45 dias,11,tienda
+almacenes la 644,10 dias,6,hipermercado
+almacenes la 645,10 dias,16,hipermercado
+almacenes la 646,contado,7,hipermercado
+almacenes la 647,contado,14,supermercado
+almacenes la 648,30 dias,15,supermercado
+almacenes la 649,10 dias,1,supermercado
+almacenes la 650,contado,15,hipermercado
+almacenes la 651,45 dias,7,tienda
+almacenes la 652,contado,9,grandes superficies
+almacenes la 653,60 dias,0,hipermercado
+almacenes la 654,45 dias,3,grandes superficies
+almacenes la 655,contado,2,supermercado
+almacenes la 656,contado,8,hipermercado
+almacenes la 657,30 dias,12,grandes superficies
+almacenes la 658,60 dias,12,hipermercado
+almacenes la 659,60 dias,14,tienda
+almacenes la 660,contado,11,grandes superficies
+almacenes la 661,45 dias,13,tienda
+almacenes la 662,45 dias,5,tienda
+almacenes la 663,10 dias,7,grandes superficies
+almacenes la 664,contado,7,supermercado
+almacenes la 665,30 dias,10,grandes superficies
+almacenes la 666,10 dias,9,hipermercado
+almacenes la 667,45 dias,17,tienda
+almacenes la 668,10 dias,16,hipermercado
+almacenes la 669,30 dias,1,supermercado
+almacenes la 670,contado,14,grandes superficies
+almacenes la 671,contado,6,grandes superficies
+almacenes la 672,30 dias,4,tienda
+almacenes la 673,60 dias,6,grandes superficies
+almacenes la 674,60 dias,6,supermercado
+almacenes la 675,30 dias,9,grandes superficies
+almacenes la 676,60 dias,15,tienda
+almacenes la 677,10 dias,6,tienda
+almacenes la 678,30 dias,2,grandes superficies
+almacenes la 679,contado,0,grandes superficies
+almacenes la 680,contado,2,tienda
+almacenes la 681,60 dias,9,hipermercado
+almacenes la 682,30 dias,13,grandes superficies
+almacenes la 683,contado,1,supermercado
+almacenes la 684,30 dias,10,grandes superficies
+almacenes la 685,30 dias,9,grandes superficies
+almacenes la 686,45 dias,2,hipermercado
+almacenes la 687,contado,5,hipermercado
+almacenes la 688,30 dias,7,grandes superficies
+almacenes la 689,10 dias,2,supermercado
+almacenes la 690,30 dias,13,tienda
+almacenes la 691,contado,5,hipermercado
+almacenes la 692,60 dias,10,tienda
+almacenes la 693,45 dias,17,grandes superficies
+almacenes la 694,60 dias,8,grandes superficies
+almacenes la 695,60 dias,7,hipermercado
+almacenes la 696,30 dias,3,supermercado
+almacenes la 697,60 dias,6,supermercado
+almacenes la 698,30 dias,14,hipermercado
+almacenes la 699,45 dias,10,tienda
+almacenes la 700,contado,6,hipermercado
+almacenes la 701,10 dias,8,grandes superficies
+almacenes la 702,10 dias,8,supermercado
+almacenes la 703,30 dias,2,tienda
+almacenes la 704,45 dias,15,hipermercado
+almacenes la 705,60 dias,7,supermercado
+almacenes la 706,60 dias,8,tienda
+almacenes la 707,contado,7,tienda
+almacenes la 708,45 dias,9,hipermercado
+almacenes la 709,45 dias,12,tienda
+almacenes la 710,45 dias,12,grandes superficies
+almacenes la 711,60 dias,8,grandes superficies
+almacenes la 712,10 dias,2,hipermercado
+almacenes la 713,45 dias,9,tienda
+almacenes la 714,contado,17,tienda
+almacenes la 715,60 dias,2,hipermercado
+almacenes la 716,45 dias,15,tienda
+almacenes la 717,60 dias,15,hipermercado
+almacenes la 718,30 dias,0,tienda
+almacenes la 719,60 dias,15,tienda
+almacenes la 720,10 dias,6,grandes superficies
+almacenes la 721,10 dias,7,tienda
+almacenes la 722,30 dias,7,grandes superficies
+almacenes la 723,10 dias,1,supermercado
+almacenes la 724,30 dias,3,hipermercado
+almacenes la 725,10 dias,3,grandes superficies
+almacenes la 726,30 dias,8,grandes superficies
+almacenes la 727,60 dias,15,tienda
+almacenes la 728,60 dias,2,tienda
+almacenes la 729,45 dias,2,supermercado
+almacenes la 730,contado,0,grandes superficies
+almacenes la 731,contado,6,supermercado
+almacenes la 732,45 dias,7,grandes superficies
+almacenes la 733,10 dias,5,hipermercado
+almacenes la 734,10 dias,17,grandes superficies
+almacenes la 735,60 dias,13,tienda
+almacenes la 736,60 dias,2,supermercado
+almacenes la 737,10 dias,11,hipermercado
+almacenes la 738,45 dias,13,grandes superficies
+almacenes la 739,45 dias,7,tienda
+almacenes la 740,45 dias,13,tienda
+almacenes la 741,10 dias,8,tienda
+almacenes la 742,45 dias,9,hipermercado
+almacenes la 743,60 dias,16,grandes superficies
+almacenes la 744,45 dias,6,tienda
+almacenes la 745,60 dias,8,tienda
+almacenes la 746,60 dias,15,tienda
+almacenes la 747,60 dias,8,supermercado
+almacenes la 748,10 dias,0,supermercado
+almacenes la 749,30 dias,11,tienda
+almacenes la 750,10 dias,11,grandes superficies
+almacenes la 751,30 dias,4,grandes superficies
+almacenes la 752,30 dias,9,grandes superficies
+almacenes la 753,contado,6,grandes superficies
+almacenes la 754,10 dias,4,hipermercado
+almacenes la 755,30 dias,9,grandes superficies
+almacenes la 756,contado,15,supermercado
+almacenes la 757,10 dias,17,supermercado
+almacenes la 758,45 dias,9,hipermercado
+almacenes la 759,30 dias,2,tienda
+almacenes la 760,10 dias,17,tienda
+almacenes la 761,10 dias,15,hipermercado
+almacenes la 762,30 dias,17,grandes superficies
+almacenes la 763,10 dias,12,grandes superficies
+almacenes la 764,60 dias,2,hipermercado
+almacenes la 765,45 dias,3,grandes superficies
+almacenes la 766,60 dias,7,supermercado
+almacenes la 767,60 dias,15,grandes superficies
+almacenes la 768,30 dias,0,grandes superficies
+almacenes la 769,45 dias,6,hipermercado
+almacenes la 770,contado,5,tienda
+almacenes la 771,contado,10,grandes superficies
+almacenes la 772,30 dias,16,tienda
+almacenes la 773,10 dias,15,grandes superficies
+almacenes la 774,45 dias,10,supermercado
+almacenes la 775,30 dias,10,hipermercado
+almacenes la 776,contado,0,hipermercado
+almacenes la 777,30 dias,8,grandes superficies
+almacenes la 778,45 dias,17,hipermercado
+almacenes la 779,45 dias,6,tienda
+almacenes la 780,10 dias,16,tienda
+almacenes la 781,10 dias,17,grandes superficies
+almacenes la 782,60 dias,6,grandes superficies
+almacenes la 783,60 dias,4,tienda
+almacenes la 784,60 dias,8,hipermercado
+almacenes la 785,60 dias,17,tienda
+almacenes la 786,30 dias,12,grandes superficies
+almacenes la 787,30 dias,0,supermercado
+almacenes la 788,10 dias,0,hipermercado
+almacenes la 789,contado,16,supermercado
+almacenes la 790,30 dias,4,supermercado
+almacenes la 791,45 dias,8,grandes superficies
+almacenes la 792,30 dias,6,hipermercado
+almacenes la 793,contado,16,grandes superficies
+almacenes la 794,45 dias,13,hipermercado
+almacenes la 795,30 dias,1,grandes superficies
+almacenes la 796,30 dias,16,supermercado
+almacenes la 797,30 dias,6,grandes superficies
+almacenes la 798,60 dias,14,tienda
+almacenes la 799,60 dias,0,tienda
+almacenes la 800,10 dias,17,tienda
+almacenes la 801,10 dias,12,grandes superficies
+almacenes la 802,45 dias,12,tienda
+almacenes la 803,30 dias,12,supermercado
+almacenes la 804,30 dias,3,hipermercado
+almacenes la 805,60 dias,5,tienda
+almacenes la 806,60 dias,17,supermercado
+almacenes la 807,10 dias,16,tienda
+almacenes la 808,45 dias,13,hipermercado
+almacenes la 809,30 dias,6,tienda
+almacenes la 810,60 dias,9,tienda
+almacenes la 811,30 dias,12,supermercado
+almacenes la 812,60 dias,17,supermercado
+almacenes la 813,60 dias,7,grandes superficies
+almacenes la 814,45 dias,14,hipermercado
+almacenes la 815,60 dias,2,supermercado
+almacenes la 816,contado,3,supermercado
+almacenes la 817,contado,9,supermercado
+almacenes la 818,45 dias,13,hipermercado
+almacenes la 819,contado,13,tienda
+almacenes la 820,60 dias,13,hipermercado
+almacenes la 821,60 dias,10,grandes superficies
+almacenes la 822,10 dias,0,tienda
+almacenes la 823,10 dias,13,hipermercado
+almacenes la 824,10 dias,8,tienda
+almacenes la 825,10 dias,2,supermercado
+almacenes la 826,30 dias,15,tienda
+almacenes la 827,contado,11,supermercado
+almacenes la 828,30 dias,16,hipermercado
+almacenes la 829,60 dias,0,tienda
+almacenes la 830,contado,3,grandes superficies
+almacenes la 831,45 dias,15,tienda
+almacenes la 832,contado,17,supermercado
+almacenes la 833,10 dias,15,supermercado
+almacenes la 834,contado,5,supermercado
+almacenes la 835,60 dias,16,grandes superficies
+almacenes la 836,45 dias,13,hipermercado
+almacenes la 837,10 dias,0,supermercado
+almacenes la 838,contado,1,hipermercado
+almacenes la 839,10 dias,14,grandes superficies
+almacenes la 840,45 dias,3,grandes superficies
+almacenes la 841,45 dias,11,supermercado
+almacenes la 842,10 dias,3,hipermercado
+almacenes la 843,30 dias,14,tienda
+almacenes la 844,10 dias,14,tienda
+almacenes la 845,contado,11,supermercado
+almacenes la 846,10 dias,8,grandes superficies
+almacenes la 847,60 dias,12,grandes superficies
+almacenes la 848,10 dias,6,hipermercado
+almacenes la 849,60 dias,1,tienda
+almacenes la 850,60 dias,16,hipermercado
+almacenes la 851,60 dias,13,tienda
+almacenes la 852,60 dias,14,supermercado
+almacenes la 853,contado,5,supermercado
+almacenes la 854,contado,1,supermercado
+almacenes la 855,45 dias,16,hipermercado
+almacenes la 856,30 dias,13,supermercado
+almacenes la 857,45 dias,13,grandes superficies
+almacenes la 858,45 dias,3,supermercado
+almacenes la 859,45 dias,7,hipermercado
+almacenes la 860,45 dias,9,grandes superficies
+almacenes la 861,60 dias,0,supermercado
+almacenes la 862,10 dias,1,tienda
+almacenes la 863,30 dias,6,tienda
+almacenes la 864,45 dias,4,hipermercado
+almacenes la 865,60 dias,17,supermercado
+almacenes la 866,contado,6,tienda
+almacenes la 867,10 dias,6,supermercado
+almacenes la 868,45 dias,3,hipermercado
+almacenes la 869,contado,12,supermercado
+almacenes la 870,10 dias,11,grandes superficies
+almacenes la 871,45 dias,17,hipermercado
+almacenes la 872,10 dias,12,hipermercado
+almacenes la 873,45 dias,5,supermercado
+almacenes la 874,60 dias,15,tienda
+almacenes la 875,60 dias,2,grandes superficies
+almacenes la 876,30 dias,15,grandes superficies
+almacenes la 877,contado,7,grandes superficies
+almacenes la 878,60 dias,4,hipermercado
+almacenes la 879,30 dias,1,supermercado
+almacenes la 880,30 dias,17,hipermercado
+almacenes la 881,30 dias,3,supermercado
+almacenes la 882,contado,16,tienda
+almacenes la 883,30 dias,14,supermercado
+almacenes la 884,45 dias,16,tienda
+almacenes la 885,60 dias,0,grandes superficies
+almacenes la 886,60 dias,0,hipermercado
+almacenes la 887,contado,11,tienda
+almacenes la 888,contado,11,supermercado
+almacenes la 889,60 dias,17,hipermercado
+almacenes la 890,10 dias,13,supermercado
+almacenes la 891,10 dias,1,grandes superficies
+almacenes la 892,10 dias,12,tienda
+almacenes la 893,45 dias,6,grandes superficies
+almacenes la 894,45 dias,8,tienda
+almacenes la 895,30 dias,5,supermercado
+almacenes la 896,60 dias,14,tienda
+almacenes la 897,60 dias,2,tienda
+almacenes la 898,contado,6,hipermercado
+almacenes la 899,30 dias,10,supermercado
+almacenes la 900,30 dias,4,supermercado
+almacenes la 901,60 dias,5,grandes superficies
+almacenes la 902,45 dias,13,tienda
+almacenes la 903,30 dias,11,grandes superficies
+almacenes la 904,30 dias,16,grandes superficies
+almacenes la 905,45 dias,13,tienda
+almacenes la 906,60 dias,12,grandes superficies
+almacenes la 907,30 dias,2,hipermercado
+almacenes la 908,45 dias,16,hipermercado
+almacenes la 909,30 dias,16,grandes superficies
+almacenes la 910,contado,16,grandes superficies
+almacenes la 911,contado,12,supermercado
+almacenes la 912,10 dias,2,tienda
+almacenes la 913,60 dias,8,tienda
+almacenes la 914,30 dias,14,hipermercado
+almacenes la 915,45 dias,17,grandes superficies
+almacenes la 916,10 dias,16,supermercado
+almacenes la 917,10 dias,17,tienda
+almacenes la 918,60 dias,1,tienda
+almacenes la 919,60 dias,4,supermercado
+almacenes la 920,60 dias,8,grandes superficies
+almacenes la 921,contado,17,tienda
+almacenes la 922,45 dias,7,supermercado
+almacenes la 923,60 dias,0,supermercado
+almacenes la 924,60 dias,6,tienda
+almacenes la 925,45 dias,10,hipermercado
+almacenes la 926,60 dias,14,grandes superficies
+almacenes la 927,45 dias,10,hipermercado
+almacenes la 928,45 dias,11,hipermercado
+almacenes la 929,contado,10,supermercado
+almacenes la 930,45 dias,5,hipermercado
+almacenes la 931,10 dias,13,tienda
+almacenes la 932,45 dias,3,hipermercado
+almacenes la 933,contado,8,tienda
+almacenes la 934,60 dias,17,grandes superficies
+almacenes la 935,45 dias,3,grandes superficies
+almacenes la 936,10 dias,7,supermercado
+almacenes la 937,45 dias,2,tienda
+almacenes la 938,contado,9,grandes superficies
+almacenes la 939,contado,3,hipermercado
+almacenes la 940,30 dias,16,hipermercado
+almacenes la 941,30 dias,7,hipermercado
+almacenes la 942,contado,7,grandes superficies
+almacenes la 943,10 dias,14,hipermercado
+almacenes la 944,contado,15,grandes superficies
+almacenes la 945,45 dias,3,grandes superficies
+almacenes la 946,60 dias,13,supermercado
+almacenes la 947,45 dias,3,supermercado
+almacenes la 948,30 dias,17,supermercado
+almacenes la 949,contado,12,grandes superficies
+almacenes la 950,contado,4,supermercado
+almacenes la 951,contado,9,hipermercado
+almacenes la 952,contado,4,tienda
+almacenes la 953,10 dias,7,grandes superficies
+almacenes la 954,contado,9,tienda
+almacenes la 955,60 dias,16,grandes superficies
+almacenes la 956,60 dias,7,hipermercado
+almacenes la 957,30 dias,10,supermercado
+almacenes la 958,45 dias,11,hipermercado
+almacenes la 959,contado,5,tienda
+almacenes la 960,10 dias,13,tienda
+almacenes la 961,10 dias,15,hipermercado
+almacenes la 962,10 dias,3,supermercado
+almacenes la 963,45 dias,11,grandes superficies
+almacenes la 964,60 dias,0,hipermercado
+almacenes la 965,10 dias,16,tienda
+almacenes la 966,60 dias,14,supermercado
+almacenes la 967,10 dias,6,grandes superficies
+almacenes la 968,contado,17,hipermercado
+almacenes la 969,10 dias,17,supermercado
+almacenes la 970,60 dias,15,hipermercado
+almacenes la 971,60 dias,13,hipermercado
+almacenes la 972,45 dias,15,hipermercado
+almacenes la 973,10 dias,6,supermercado
+almacenes la 974,60 dias,10,grandes superficies
+almacenes la 975,10 dias,0,supermercado
+almacenes la 976,10 dias,16,hipermercado
+almacenes la 977,60 dias,6,tienda
+almacenes la 978,30 dias,7,tienda
+almacenes la 979,60 dias,15,grandes superficies
+almacenes la 980,contado,0,grandes superficies
+almacenes la 981,10 dias,5,hipermercado
+almacenes la 982,30 dias,15,grandes superficies
+almacenes la 983,30 dias,16,supermercado
+almacenes la 984,60 dias,11,hipermercado
+almacenes la 985,30 dias,11,tienda
+almacenes la 986,30 dias,11,grandes superficies
+almacenes la 987,45 dias,11,grandes superficies
+almacenes la 988,60 dias,2,hipermercado
+almacenes la 989,45 dias,5,hipermercado
+almacenes la 990,30 dias,15,hipermercado
+almacenes la 991,contado,3,supermercado
+almacenes la 992,contado,17,grandes superficies
+almacenes la 993,45 dias,17,hipermercado
+almacenes la 994,30 dias,1,tienda
+almacenes la 995,contado,4,tienda
+almacenes la 996,contado,2,tienda
+almacenes la 997,30 dias,9,supermercado
+almacenes la 998,45 dias,5,tienda
+almacenes la 999,30 dias,15,supermercado
