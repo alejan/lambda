@@ -1,0 +1,2 @@
+#!/bin/bash
+JAVA_HOME="$(/usr/libexec/java_home --version 1.8+)" exec "/usr/local/Cellar/kafka/0.10.2.0/libexec/bin/kafka-producer-perf-test.sh" "$@"
