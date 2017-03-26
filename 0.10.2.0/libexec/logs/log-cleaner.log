@@ -1,3 +1,0 @@
-[2017-03-24 23:45:29,450] INFO The cleaning for partition postcliente-0 is aborted and paused (kafka.log.LogCleaner)
-[2017-03-24 23:45:29,479] INFO Compaction for partition postcliente-0 is resumed (kafka.log.LogCleaner)
-[2017-03-24 23:45:29,479] INFO The cleaning for partition postcliente-0 is aborted (kafka.log.LogCleaner)
