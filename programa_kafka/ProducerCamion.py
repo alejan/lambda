@@ -4,8 +4,6 @@ from kafka.producer.kafka import KafkaProducer
 
 
 class ProducerCamion(object):
-
-    contexto_ssl = None
     brokers = []
     topico = ""
     producer = None
