@@ -1,5 +1,4 @@
 import threading, time
-import os, ssl
 
 from kafka.producer.kafka import KafkaProducer
 
@@ -19,14 +18,7 @@ class ProducerCamion(object):
         self.topico = topico
 
     def conectar(self):
-        self.contexto_ssl = ssl.SSLContext(ssl.PROTOCOL_SSLv23)
-        self.contexto_ssl.verify_mode = ssl.CERT_REQUIRED
-        self.contexto_ssl.check_hostname = True
-        self.contexto_ssl.load_verify_locations("../conf/ca.pem")
-        self.contexto_ssl.load_cert_chain('../conf/cert.pem', '../conf/key.pem')
-        self.producer = KafkaProducer(bootstrap_servers=self.brokers,
-                                 security_protocol='SSL',
-                                 ssl_context=self.contexto_ssl)
+        self.producer = KafkaProducer(bootstrap_servers=self.brokers)
         print "Conectado Kafka"
 
     def producir(self, mensaje):

@@ -8,8 +8,8 @@ class CamionMqtt_sub(object):
     c = camion()
     topico = ""
     producer_camion = programa_kafka.ProducerCamion.ProducerCamion()
-    lista_brokers_kafka = "steamer-01.srvs.cloudkafka.com:9093,steamer-02.srvs.cloudkafka.com:9093,steamer-03.srvs.cloudkafka.com:9093"
-    topico_kafka = "zfey-proyecto-kafka"
+    lista_brokers_kafka = "localhost:9092"
+    topico_kafka = "ccp-camiones-topico"
 
     def __init__(self):
         pass
