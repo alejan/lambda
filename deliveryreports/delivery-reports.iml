@@ -11,6 +11,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.apache.spark:spark-sql_2.11:1.6.0" level="application" />
+    <orderEntry type="library" name="scala-sdk-2.12.1" level="application" />
+    <orderEntry type="library" name="scala-sdk-2.11.8" level="application" />
+    <orderEntry type="library" name="mongo-spark-connector_2.10-1.1.0" level="project" />
+    <orderEntry type="library" name="bson-3.0.1" level="project" />
+    <orderEntry type="library" name="mongodb-driver-3.0.1" level="project" />
+    <orderEntry type="library" name="mongodb-driver-core-3.0.1" level="project" />
     <orderEntry type="library" name="Maven: com.datastax.spark:spark-cassandra-connector_2.11:1.6.1" level="project" />
     <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.11.7" level="project" />
     <orderEntry type="library" name="Maven: com.twitter:jsr166e:1.1.0" level="project" />
@@ -159,7 +166,7 @@
     <orderEntry type="library" name="Maven: net.razorvine:pyrolite:4.9" level="project" />
     <orderEntry type="library" name="Maven: net.sf.py4j:py4j:0.9" level="project" />
     <orderEntry type="library" name="Maven: org.spark-project.spark:unused:1.0.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.spark:spark-sql_2.11:1.6.0" level="application" />
+    <orderEntry type="library" name="Maven: org.apache.spark:spark-sql_2.11:1.6.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.spark:spark-catalyst_2.11:1.6.0" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.janino:janino:2.7.8" level="project" />
     <orderEntry type="library" name="Maven: org.apache.parquet:parquet-column:1.7.0" level="project" />
@@ -242,6 +249,9 @@
     <orderEntry type="library" name="Maven: org.apache.thrift:libfb303:0.9.2" level="project" />
     <orderEntry type="library" name="Maven: joda-time:joda-time:2.8.1" level="project" />
     <orderEntry type="library" name="Maven: org.joda:joda-convert:1.7" level="project" />
-    <orderEntry type="library" name="scala-sdk-2.12.1" level="application" />
+    <orderEntry type="library" name="Maven: org.scalatest:scalatest_2.11:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.scalactic:scalactic_2.11:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb.spark:mongo-spark-connector_2.10:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongo-java-driver:3.2.2" level="project" />
   </component>
 </module>
