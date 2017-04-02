@@ -63,4 +63,4 @@ if __name__ == "__main__":
         envio_camion.armar_trama()
         id_camion+=1
         publicador.publicar(cliente_camion, topico, envio_camion)
-        time.sleep(0.1)
+        time.sleep(60)
