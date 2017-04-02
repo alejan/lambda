@@ -45,4 +45,11 @@ class utilidades:
 
     @staticmethod
     def obtenerDisponibilidad():
-        return bool(random.getrandbits(1))
+        res = bool(random.getrandbits(1))
+        return res
+
+    @staticmethod
+    def obtenerDisponibilidadRes(res):
+        if res == 'True':
+            return "disponible"
+        return "no disponible"

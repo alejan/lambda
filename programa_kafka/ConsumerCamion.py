@@ -8,7 +8,7 @@ class Consumer(object):
     def iniciar(self):
         brokers = "localhost:9092".split(
             ',')
-        consumer = KafkaConsumer('ccp-camiones-topico',
+        consumer = KafkaConsumer('rutas',
                                  bootstrap_servers=brokers)
         print "Iniciando Consumer Camion"
         for message in consumer:

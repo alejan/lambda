@@ -1,4 +1,7 @@
+from threading import Thread
+
 import paho.mqtt.client as mqtt
+import time
 
 from logica.camion import camion
 from logica.utilidades import utilidades
@@ -47,12 +50,17 @@ if __name__ == "__main__":
     publicador = CamionMqtt_pub()
     cliente_camion = publicador.configurar_envios()
     publicador.conectar(cliente_camion, usuarioCloudMqtt, pwdCloudMqtt, host, puerto, tiempo_permanencia)
-    for i in range(1,2):
+    id_camion = 0
+    for i in range(0,20):
         envio_camion = camion()
-        envio_camion.id = i
+        if id_camion == 10:
+            id_camion = 0
+        envio_camion.id = id_camion
         coordenada = utilidades.obtenerXYCamion()
         envio_camion.x = coordenada[0]
         envio_camion.y = coordenada[1]
         envio_camion.esta_disponible = utilidades.obtenerDisponibilidad()
         envio_camion.armar_trama()
+        id_camion+=1
         publicador.publicar(cliente_camion, topico, envio_camion)
+        time.sleep(0.1)

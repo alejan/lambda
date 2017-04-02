@@ -9,7 +9,7 @@ class CamionMqtt_sub(object):
     topico = ""
     producer_camion = programa_kafka.ProducerCamion.ProducerCamion()
     lista_brokers_kafka = "localhost:9092"
-    topico_kafka = "ccp-camiones-topico"
+    topico_kafka = "rutas"
 
     def __init__(self):
         pass
@@ -29,8 +29,8 @@ class CamionMqtt_sub(object):
 
     def on_message(self, client, userdata, msg):
         mensaje = str(msg.payload)
-        self.c.transformar_JSON(mensaje)
-        self.producer_camion.producir(self.c.mensaje_json)
+        self.c.transformar_trama_kafka(mensaje)
+        self.producer_camion.producir(self.c.mensaje)
         print("Mensaje recibido: " + msg.topic + " " + mensaje)
 
     def configurar_recibidos(self):
