@@ -53,3 +53,11 @@ class utilidades:
         if res == 'True':
             return "disponible"
         return "no disponible"
+
+    @staticmethod
+    def obtenerReferencias():
+        return ["queso", "pan", "leche", "huevos", "salchicha"]
+
+    @staticmethod
+    def obtenerCantidades():
+        return [10, 20, 30, 40, 50, 60, 70 , 80, 90, 100]
