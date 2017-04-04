@@ -1,3 +1,4 @@
+import random
 from threading import Thread
 
 import paho.mqtt.client as mqtt
@@ -53,25 +54,29 @@ if __name__ == "__main__":
     id_tienda = 0
     referencias = utilidades.obtenerReferencias()
     cantidades = utilidades.obtenerCantidades()
-    id_referencia = 0
-    id_cantidad = 0
-    for i in range(0,20):
+    xs = []
+    ys = []
+    MAX = 100
+    indice = 0
+    while True:
         envio_tienda = tienda()
-        if id_tienda == 100:
+        if id_tienda == MAX:
             id_tienda = 0
+            indice = 0
+
+        if len(xs) != MAX:
+            coordenada = utilidades.obtenerXYCamion()
+            xs.append(coordenada[0])
+            ys.append(coordenada[1])
+
+        envio_tienda.x = xs[indice]
+        envio_tienda.y = ys[indice]
         envio_tienda.id = id_tienda
-        coordenada = utilidades.obtenerXYCamion()
-        envio_tienda.x = coordenada[0]
-        envio_tienda.y = coordenada[1]
-        if id_referencia == 5:
-            id_referencia = 0
-        if id_cantidad == 10:
-            id_cantidad = 0
-        envio_tienda.referencia = referencias[id_referencia]
-        envio_tienda.cantidad = cantidades[id_cantidad]
+
+        envio_tienda.referencia = referencias[random.randint(0, 4)]
+        envio_tienda.cantidad = cantidades[random.randint(0, 9)]
         envio_tienda.armar_trama()
         id_tienda+=1
-        id_referencia+=1
-        id_cantidad+=1
+        indice+=1
         publicador.publicar(cliente_tienda, topico, envio_tienda)
         time.sleep(0.1)

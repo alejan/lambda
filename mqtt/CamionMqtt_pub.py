@@ -51,7 +51,7 @@ if __name__ == "__main__":
     cliente_camion = publicador.configurar_envios()
     publicador.conectar(cliente_camion, usuarioCloudMqtt, pwdCloudMqtt, host, puerto, tiempo_permanencia)
     id_camion = 0
-    for i in range(0,20):
+    while True:
         envio_camion = camion()
         if id_camion == 10:
             id_camion = 0
@@ -63,4 +63,4 @@ if __name__ == "__main__":
         envio_camion.armar_trama()
         id_camion+=1
         publicador.publicar(cliente_camion, topico, envio_camion)
-        time.sleep(60)
+        time.sleep(6)
